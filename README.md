@@ -1,2 +1,1 @@
-# Hololens-Demo
-Microsoft Hololens Project with Unity 3D engine
+A Logistic Regression File Written with Python and R Programming. I have provided the CSV File data for the test
